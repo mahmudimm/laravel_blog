@@ -1,4 +1,4 @@
 <?php
-    echo "Hello word........2";
+    echo "Hello word........2"; 
 ?>
 
